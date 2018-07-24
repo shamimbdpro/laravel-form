@@ -1,0 +1,43 @@
+body{
+	margin:0;
+	padding: 0;
+	background: #ddd
+}
+
+.contact-form{
+    background:#fafafa;
+    padding:5px 10px;
+    box-shadow: 0px 0.10px 5px 0px #000
+}
+.menu{
+	background:green;
+	margin-bottom: 30px
+}
+.menu ul{
+	margin:0;
+	padding: 0;
+	text-align: center
+}
+
+.menu ul li{
+	display: inline
+}
+.menu ul li a{
+	text-decoration:none;
+	padding: 10px 20px;
+	font-size: 20px;
+	color:#FFF;
+	display:inline-block;
+}
+
+
+
+.footer{
+	background:green;
+	padding:10px 30px;
+	color:#fafafa;
+	font-size:30px;
+	font-weight: 700;
+	text-align:center;
+	margin-top: 30px
+}
